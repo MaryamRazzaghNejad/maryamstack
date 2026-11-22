@@ -1,4 +1,4 @@
-[Uploading README-4d0218.md…]()
+[Uploading README-FF304F.md…]()
 <!--
   Profile README for: @maryamstack
   Replace YOUR_LINKEDIN_URL and YOUR_LEETCODE_URL before publishing.
@@ -7,16 +7,16 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:4D0218,100:4D0218&height=220&section=header&text=MARYAM&fontSize=62&fontColor=F0F6FC&fontAlignY=36&desc=COMPUTER%20ENGINEERING%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=15&animation=twinkling" alt="Animated Maryam profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:E63946,100:FF304F&height=220&section=header&text=MARYAM&fontSize=62&fontColor=F0F6FC&fontAlignY=36&desc=COMPUTER%20ENGINEERING%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=15&animation=twinkling" alt="Animated Maryam profile banner" />
 
   <a href="https://github.com/maryamstack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=4D0218&center=true&vCenter=true&width=760&height=55&lines=Computer+Engineering+Student;Aspiring+Software+Engineer;Building+with+HTML%2C+CSS+%26+JavaScript;Exploring+the+future+of+AI+Engineering" alt="Animated introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=FF4D6D&center=true&vCenter=true&width=760&height=55&lines=Computer+Engineering+Student;Aspiring+Software+Engineer;Building+with+HTML%2C+CSS+%26+JavaScript;Exploring+the+future+of+AI+Engineering" alt="Animated introduction" />
   </a>
 
   <p>
     <a href="https://github.com/maryamstack"><img src="https://img.shields.io/badge/GitHub-maryamstack-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-    <img src="https://img.shields.io/badge/Focus-Software%20Engineering-4D0218?style=for-the-badge" alt="Focus: Software Engineering" />
-    <img src="https://komarev.com/ghpvc/?username=maryamstack&style=for-the-badge&color=4D0218&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Focus-Software%20Engineering-FF304F?style=for-the-badge" alt="Focus: Software Engineering" />
+    <img src="https://komarev.com/ghpvc/?username=maryamstack&style=for-the-badge&color=FF4D6D&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
 
   <h3>Curiosity is the beginning. Consistency turns it into engineering.</h3>
@@ -69,7 +69,7 @@ I approach learning as a long-term engineering process: understand the fundament
 ## 🗺️ My Learning Roadmap
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4D0218&height=2&section=header" width="72%" alt="Section divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D6D&height=2&section=header" width="72%" alt="Section divider" />
 </div>
 
 | Stage | Planned focus | Direction |
@@ -104,18 +104,18 @@ I use GitHub to document my learning, keep programming exercises organized, and 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="175" src="https://github-stats-extended.vercel.app/api?username=maryamstack&show_icons=true&rank_icon=github&title_color=4D0218&icon_color=4D0218&text_color=F0F6FC&bg_color=0D1117&border_color=4D0218&hide_border=true" alt="Maryam's GitHub statistics" />
-  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maryamstack&layout=compact&langs_count=8&title_color=4D0218&icon_color=4D0218&text_color=F0F6FC&bg_color=0D1117&border_color=4D0218&hide_border=true" alt="Most used languages in public repositories" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=maryamstack&show_icons=true&rank_icon=github&title_color=FF4D6D&icon_color=FF4D6D&text_color=F0F6FC&bg_color=0D1117&border_color=FF4D6D&hide_border=true" alt="Maryam's GitHub statistics" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maryamstack&layout=compact&langs_count=8&title_color=FF4D6D&icon_color=FF4D6D&text_color=F0F6FC&bg_color=0D1117&border_color=FF4D6D&hide_border=true" alt="Most used languages in public repositories" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=maryamstack&background=0D1117&border=4D0218&stroke=4D0218&ring=4D0218&fire=4D0218&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=4D0218&sideLabels=E6A0A0&dates=9CA3AF&hide_border=true" alt="GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=maryamstack&background=0D1117&border=E63946&stroke=E63946&ring=FF304F&fire=FF304F&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=FF6B81&sideLabels=FF9AA9&dates=9CA3AF&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maryamstack&bg_color=0D1117&color=4D0218&line=4D0218&point=4D0218&area_color=4D0218&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maryamstack&bg_color=0D1117&color=FF4D6D&line=FF304F&point=FF304F&area_color=FF4D6D&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -150,6 +150,6 @@ I'm interested in connecting with developers, learning from the community, and e
 
   <sub>Thanks for stopping by — feel free to explore my repositories.</sub>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4D0218,55:4D0218,100:0D1117&height=110&section=footer" alt="Decorative footer banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF304F,55:E63946,100:0D1117&height=110&section=footer" alt="Decorative footer banner" />
 
 </div>

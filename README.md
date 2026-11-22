@@ -159,6 +159,6 @@ I'm always glad to connect with developers, learn from the community, and exchan
 
   <sub>Thanks for visiting — feel free to explore my repositories.</sub>
 
-  <img width="100%" max-hight="20px" src="https://capsule-render.vercel.app/api?type=rounded&color=0:00E5D4,28:00C2FF,58:536DFE,80:8B5CF6,100:D946EF&height=125&section=footer&animation=twinkling" alt="Animated prismatic gradient footer" />
+  <img width="75%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:00E5D4,28:00C2FF,58:536DFE,80:8B5CF6,100:D946EF&height=125&section=footer&animation=twinkling" alt="Animated prismatic gradient footer" />
 
 </div>

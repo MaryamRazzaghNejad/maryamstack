@@ -1,0 +1,40 @@
+name: Generate prismatic contribution snake
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - '.github/workflows/snake.yml'
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate prismatic contribution snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: maryamstack
+          outputs: |
+            dist/github-snake.svg?color_snake=%2300E5D4&color_dots=%23161B22,%231D3557,%234763FE,%238B5CF6,%23D946EF
+            dist/github-snake-dark.svg?color_snake=%2300E5D4&color_dots=%23161B22,%231D3557,%234763FE,%238B5CF6,%23D946EF
+            dist/github-snake.gif?color_snake=%2300E5D4&color_dots=%23161B22,%231D3557,%234763FE,%238B5CF6,%23D946EF&color_background=%230D1117
+
+      - name: Publish generated SVGs to the output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true

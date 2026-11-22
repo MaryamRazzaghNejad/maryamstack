@@ -145,8 +145,8 @@ I'm always glad to connect with developers, learn from the community, and exchan
 
 <div align="center">
   <a href="https://github.com/maryamstack"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=181818" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/maryam-razzagh-nejad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/maryamstack/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=181818" alt="LeetCode" /></a>
 </div>
 
 ---

@@ -2,8 +2,8 @@ Hi, I'm Maryam! 👋
 Computer Engineering Student | Aspiring Software Engineer
 
 Software Engineering · Web Development · Artificial Intelligence
-<img width="600" height="600" alt="html" src="https://github.com/user-attachments/assets/38b9f0ca-cb1a-4cbb-a058-e59274bc5ece" />
-<img width="960" height="960" alt="Devicon-css3-plain svg" src="https://github.com/user-attachments/assets/b7ecfc61-b398-4c81-aaa1-1aa04deba838" />
+<!-- <img width="600" height="600" alt="html" src="https://github.com/user-attachments/assets/38b9f0ca-cb1a-4cbb-a058-e59274bc5ece" />
+<img width="960" height="960" alt="Devicon-css3-plain svg" src="https://github.com/user-attachments/assets/b7ecfc61-b398-4c81-aaa1-1aa04deba838" /> -->
 
 
 # Hi, I'm Maryam! 👋

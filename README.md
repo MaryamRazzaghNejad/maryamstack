@@ -1,4 +1,4 @@
-[Uploading README.md…]()
+
 <!--
   Profile README for @maryamstack
   Replace YOUR_LINKEDIN_URL and YOUR_LEETCODE_URL with your real profile URLs.
